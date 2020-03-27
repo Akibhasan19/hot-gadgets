@@ -1,0 +1,30 @@
+.container{
+    margin-bottom: 150px;
+    margin-top: 50px;
+}
+.paragraph{
+    text-align: justify;
+}
+.card-body{
+    text-align: center;
+}
+.card-text{
+    color: gray;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.see{
+    color: orange;
+}
+#header{
+    margin-bottom: 30px;
+}
+.line{
+    width: 85px;
+    height: 7px;
+    background-color: orange;
+    margin: auto;
+    border-radius: 10px;
+}
